@@ -4,6 +4,7 @@ It collects user details like Name, Email, Age and Current Role.
 Moreover, the form focuses on taking feedback from the user on their experience on the website. 
 It also asks for favorite features of the website, suggestions on areas for improvements, and additional comments.
 The page is made responsive using basic CSS style attribute of width that adjusts to the container size.
+The screenshots of the page can be referenced from attached PNG files.
 
 The following user stories were fulfilled, along with CSS styling:
 
@@ -38,5 +39,3 @@ User Story #14: Inside the form element, I can select several fields from a seri
 User Story #15: Inside the form element, I am presented with a textarea at the end for additional comments.
 
 User Story #16: Inside the form element, I am presented with a button with id="submit" to submit all my inputs.
-
-PFA the screenshot of the webpage as in filename: 
