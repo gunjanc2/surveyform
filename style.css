@@ -1,0 +1,88 @@
+body{
+    background: linear-gradient(90deg, #363636, #000000, #363636);
+    color: white;
+    text-align: center;
+  }
+  #description{
+    opacity: 0.8;
+  }
+  .form{
+    width: 50%;
+    height: auto;
+    border-radius: 1%;
+    background-color: #363636;
+    color: #ffffff;
+    margin: auto;
+    text-align: left;
+    padding: 30px;
+    font-size: 1.3em;
+    font-family: sans-serif;
+  }
+  #name{
+    width: 100%;
+    height: 30px;
+    border-radius: 1%;
+    border-width: 0px;
+    padding-left: 10px;
+    margin-top: 10px;
+  }
+  
+  #email{
+    width: 100%;
+    height: 30px;
+    border-radius: 1%;
+    border-width: 0px;
+    padding-left: 10px;
+    margin-top: 10px;
+  }
+  
+  #number{
+    width: 100%;
+    height: 30px;
+    border-radius: 1%;
+    border-width: 0px;
+    padding-left: 10px;
+    margin-top: 10px;
+  }
+  
+  .dropdown{
+    width: 100%;
+    height: 30px;
+    border-radius: 1%;
+    border-width: 0px;
+    padding-left: 10px;
+    margin-top: 10px;
+  }
+  
+  input[type="radio"]{
+    border: 0px;
+    width: 1.5em;
+    height: 1.5em;
+  }
+  
+  input[type="checkbox"]{
+    border: 0px;
+    width: 1.5em;
+    height: 1.5em;
+  }
+  
+  #additional-comments{
+    width: 100%;
+    border-radius: 1%;
+    border-width: 0px;
+    padding-left: 10px;
+    margin-top: 10px;
+  }
+  
+  #submit{
+    background-color: #2be062;
+    color: white;
+    font-size: 0.7em;
+    font-family: sans-serif;
+    width: 100%;
+    height: 30px;
+    border-radius: 1%;
+    border-width: 0px;
+    margin: auto;
+    padding: auto;
+  }
